@@ -2,6 +2,12 @@
 
 
 
+
+Script / Code Demo : 
+
+https://drive.google.com/file/d/1DYm5EB44W1UaslyqekF7ZyMvoiFQQLf2/view?usp=sharing
+
+
 TikTok-API (Open-source python) based scrapping text utilizing Chromium Playwright.
 
 Required Modules : 
