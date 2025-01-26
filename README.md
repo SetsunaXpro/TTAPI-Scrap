@@ -15,6 +15,7 @@ Required Modules :
 - Pandas.
 - TikTokAPI (Open-source Python).
 - Playwright.
+- Aiohttp
 - Asyncio.
 - OS.
 - Time.
